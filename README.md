@@ -1,9 +1,9 @@
 ## About Me
-Hello, I'm Romane Gros, a passionate Ph.D. student with a keen interest in in Data Science and more particularly its applications to the biological field and in neurosciences. I enjoy creating innovative solutions to solve real-world problems and am dedicated to leveraging technology for positive change. My journey has equipped me with valuable skills in image processing, histology and digital pathology, and scientific data analysis.
+Hello, I'm Éléa Gros, a passionate Ph.D. student with a keen interest in in Data Science and more particularly its applications to the biological field and in neurosciences. I enjoy creating innovative solutions to solve real-world problems and am dedicated to leveraging technology for positive change. My journey has equipped me with valuable skills in image processing, histology and digital pathology, and scientific data analysis.
 
 ## Contact Information
 Feel free to reach out to me via email or connect with me on LinkedIn:<br>
-Email: romane.gros@unibe.ch<br>
+Email: elearomy.gros@unibe.ch<br>
 LinkedIn: [https://www.linkedin.com/in/romane-gros](https://www.linkedin.com/in/romane-gros-0a9118161/?originalSubdomain=ch)
 
 ## Project Related Links
