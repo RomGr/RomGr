@@ -7,7 +7,7 @@ Email: elearomy.gros@unibe.ch<br>
 LinkedIn: [https://www.linkedin.com/in/romane-gros](https://www.linkedin.com/in/romane-gros-0a9118161/?originalSubdomain=ch)
 
 ## Project Related Links
-Check out my projects and repositories on GitHub and on [my website](https://romane-gros.vercel.app/).
+Check out my projects and repositories on GitHub and on [my website](https://eleagros.ch/).
 
 ## Interests and Expertise
 Programming Languages: Python, JavaScript, MATLAB, R
